@@ -1,4 +1,4 @@
-## Homework Week8
+## Homework7 Week8
 
 You must submit a new version of the program in this **repostiroy**. 
 It should be more functional than the version submitted week 7.
